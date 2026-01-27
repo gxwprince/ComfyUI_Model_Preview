@@ -1,5 +1,5 @@
 # ComfyUI Model Preview Hover
-
+![Demo GIF](demo.gif)
 [中文说明请向下滚动 (Scroll down for Chinese version)]
 
 ## 📖 Feature
@@ -46,3 +46,4 @@ code
 Bash
 git clone https://github.com/gxwprince/ComfyUI_Model_Preview.git
 3. 重启 ComfyUI。
+
