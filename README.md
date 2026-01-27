@@ -26,23 +26,23 @@ Supported nodes: **CheckpointLoader, LoRA Loader, UNETLoader, ControlNetLoader, 
 3. Restart ComfyUI.
 
 
-##中文说明
+## 中文说明
 ComfyUI Model Preview Hover (模型悬停预览插件)
-📖 功能
+## 📖 功能
 在 Checkpoint、LoRA、UNET、ControlNet 等加载器的下拉菜单中，当鼠标悬停在模型名称上时，自动在侧边弹窗显示该模型的封面预览图。
-🚀 使用方法
-确保你的模型文件夹（如 models/checkpoints/）内有与模型同名的封面图。
-支持格式：.png, .jpg, .jpeg, .webp
-举例：如果模型文件名是 flux_dev.safetensors，对应的封面图应命名为 flux_dev.png。
-刷新 ComfyUI 网页即可生效。
-📦 安装
-方法 1：通过 ComfyUI Manager (推荐)
-在 ComfyUI Manager 中搜索 "ComfyUI Model Preview Hover" 并安装。
-重启 ComfyUI。
-方法 2：手动安装
-进入 ComfyUI/custom_nodes/ 目录。
-克隆本项目：
+## 🚀 使用方法
+1. 确保你的模型文件夹（如 models/checkpoints/）内有与模型同名的封面图。
+   - **支持格式**：.png, .jpg, .jpeg, .webp
+   - **举例**：如果模型文件名是 flux_dev.safetensors，对应的封面图应命名为 flux_dev.png。
+2. 刷新 ComfyUI 网页即可生效。
+## 📦 安装
+### 方法 1：通过 ComfyUI Manager (推荐)
+1. 在 ComfyUI Manager 中搜索 "ComfyUI Model Preview Hover" 并安装。
+2. 重启 ComfyUI。
+### 方法 2：手动安装
+1. 进入 ComfyUI/custom_nodes/ 目录。
+2. 克隆本项目：
 code
 Bash
 git clone https://github.com/gxwprince/ComfyUI_Model_Preview.git
-重启 ComfyUI。
+3. 重启 ComfyUI。
