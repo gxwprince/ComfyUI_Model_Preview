@@ -10,6 +10,7 @@ Supported nodes: **CheckpointLoader, LoRA Loader, UNETLoader, ControlNetLoader, 
 1. Ensure you have a cover image file with the **same name** as your model in the corresponding model folder (e.g., `models/checkpoints/`).
    - **Supported formats**: `.png`, `.jpg`, `.jpeg`, `.webp`
    - **Example**: If your model is `flux_dev.safetensors`, your preview image should be named `flux_dev.png`.
+ ![Demo JPG](exmple.jpg)
 2. Refresh the ComfyUI webpage to apply changes.
 
 ## 📦 Installation
@@ -46,4 +47,5 @@ code
 Bash
 git clone https://github.com/gxwprince/ComfyUI_Model_Preview.git
 3. 重启 ComfyUI。
+
 
