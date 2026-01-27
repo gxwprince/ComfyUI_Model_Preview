@@ -47,5 +47,14 @@ Bash
 git clone https://github.com/gxwprince/ComfyUI_Model_Preview.git
 3. 重启 ComfyUI。
 
+---
+## 🤝 Support / 支持作者
+
+如果你觉得这个插件好用，欢迎去我的 B 站关注一波！
+If you like this extension, please follow me on Bilibili!
+
+📺 **My Bilibili Channel**: [点击跳转 B 站主页 (星镜AIart)](https://space.bilibili.com/250666068)
+
+
 
 
