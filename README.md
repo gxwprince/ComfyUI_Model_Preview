@@ -13,7 +13,7 @@ Supported nodes: **CheckpointLoader, LoRA Loader, UNETLoader, ControlNetLoader, 
 2. Refresh the ComfyUI webpage to apply changes.
 
 ## 📦 Installation
-### Method2: 
+### Method1: 
 1. Navigate to your `ComfyUI/custom_nodes/` directory.
 2. Clone this repository:
    ```bash
@@ -51,6 +51,7 @@ git clone https://github.com/gxwprince/ComfyUI_Model_Preview.git
 If you like this extension, please follow me on Bilibili!
 
 📺 **My Bilibili Channel**: [点击跳转 B 站主页 (星镜AIart)](https://space.bilibili.com/250666068)
+
 
 
 
