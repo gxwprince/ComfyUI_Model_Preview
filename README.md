@@ -13,18 +13,15 @@ Supported nodes: **CheckpointLoader, LoRA Loader, UNETLoader, ControlNetLoader, 
 2. Refresh the ComfyUI webpage to apply changes.
 
 ## 📦 Installation
-
-### Method 1: ComfyUI Manager (Recommended)
-1. Search for "ComfyUI Model Preview Hover" in ComfyUI Manager and install it.
-2. Restart ComfyUI.
-
-### Method 2: Manual Installation
+### Method2: 
 1. Navigate to your `ComfyUI/custom_nodes/` directory.
 2. Clone this repository:
    ```bash
    git clone https://github.com/gxwprince/ComfyUI_Model_Preview.git
 3. Restart ComfyUI.
 
+### Method2: 
+select "Download ZIP" file from the "code" option in the upper right corner of the homepage.
 
 ## 中文说明
 ComfyUI Model Preview Hover (模型悬停预览插件)
@@ -36,16 +33,16 @@ ComfyUI Model Preview Hover (模型悬停预览插件)
    - **举例**：如果模型文件名是 flux_dev.safetensors，对应的封面图应命名为 flux_dev.png。
 2. 刷新 ComfyUI 网页即可生效。
 ## 📦 安装
-### 方法 1：通过 ComfyUI Manager (推荐)
-1. 在 ComfyUI Manager 中搜索 "ComfyUI Model Preview Hover" 并安装。
-2. 重启 ComfyUI。
-### 方法 2：手动安装
+### 方法1：
 1. 进入 ComfyUI/custom_nodes/ 目录。
 2. 克隆本项目：
 code
 Bash
 git clone https://github.com/gxwprince/ComfyUI_Model_Preview.git
 3. 重启 ComfyUI。
+
+### 方法2：
+在主页右上角的“code”中选择“Download ZIP”文件
 
 ---
 ## 🤝 Support / 支持作者
@@ -54,6 +51,7 @@ git clone https://github.com/gxwprince/ComfyUI_Model_Preview.git
 If you like this extension, please follow me on Bilibili!
 
 📺 **My Bilibili Channel**: [点击跳转 B 站主页 (星镜AIart)](https://space.bilibili.com/250666068)
+
 
 
 
